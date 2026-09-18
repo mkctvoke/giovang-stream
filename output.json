@@ -17,8 +17,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-b7fad3613c",
-          "name": "Manchester City vs Norwich City | 01:30 18/09",
+          "id": "gv-b95d0ffce5",
+          "name": "Yanbian Longding vs Guangdong GZ-Power | 17:00 18/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -32,23 +32,23 @@
           ],
           "sources": [
             {
-              "id": "src-b7fad3613c",
+              "id": "src-b95d0ffce5",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-b7fad3613c",
-                  "name": "Manchester City vs Norwich City",
+                  "id": "ct-b95d0ffce5",
+                  "name": "Yanbian Longding vs Guangdong GZ-Power",
                   "streams": [
                     {
-                      "id": "st-b7fad3613c",
+                      "id": "st-b95d0ffce5",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-5e1404f673",
-                          "name": "Ben",
+                          "id": "lnk-2f383ab15d",
+                          "name": "Trĩ",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789617159_hd/1789617159_hd@720p.m3u8",
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789712999_hd/1789712999_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -68,14 +68,14 @@
             }
           ],
           "org_metadata": {
-            "league": "Cúp Liên Đoàn Anh",
-            "team_a": "Manchester City",
-            "team_b": "Norwich City",
-            "logo_a": "https://images.keovip88.net/images/teams/manchester-city.png",
-            "logo_b": "https://images.keovip88.net/images/teams/norwich-city.png",
-            "time": "01:30:00",
+            "league": "Hạng Nhất Trung Quốc",
+            "team_a": "Yanbian Longding",
+            "team_b": "Guangdong GZ-Power",
+            "logo_a": "https://images.keovip88.net/images/teams/yanbian-longding.png",
+            "logo_b": "https://images.keovip88.net/images/teams/guangdong-gz-power.png",
+            "time": "17:00:00",
             "date": "18/09",
-            "blv": "Ben",
+            "blv": "Trĩ",
             "is_live": true,
             "cate_type": "football"
           },
@@ -83,14 +83,14 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a90d09f924b00d295046783_8d8e373d_20260918.png?v=8d8e373d",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88a9924d46db870489366_cfdf6fad_20260918.png?v=cfdf6fad",
             "width": 1600,
             "height": 1200
           }
         },
         {
-          "id": "gv-6707629a7e",
-          "name": "Besiktas JK vs Marseille | 02:00 18/09",
+          "id": "gv-0a962c487a",
+          "name": "U23 Kuwait vs U23 Uzbekistan | 17:00 18/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -104,383 +104,23 @@
           ],
           "sources": [
             {
-              "id": "src-6707629a7e",
+              "id": "src-0a962c487a",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-6707629a7e",
-                  "name": "Besiktas JK vs Marseille",
+                  "id": "ct-0a962c487a",
+                  "name": "U23 Kuwait vs U23 Uzbekistan",
                   "streams": [
                     {
-                      "id": "st-6707629a7e",
+                      "id": "st-0a962c487a",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-b96cbed5f7",
+                          "id": "lnk-63da259e40",
                           "name": "Ngọng",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789617182_hd/1789617182_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Besiktas JK",
-            "team_b": "Marseille",
-            "logo_a": "https://images.keovip88.net/images/teams/besiktas-jk.png",
-            "logo_b": "https://images.keovip88.net/images/teams/marseille.png",
-            "time": "02:00:00",
-            "date": "18/09",
-            "blv": "Ngọng",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a93738cfccd5ecc44060e91_a9b3e22d_20260918.png?v=a9b3e22d",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-07d1bd3b9b",
-          "name": "Crystal Palace vs Lech Poznan | 02:00 18/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-07d1bd3b9b",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-07d1bd3b9b",
-                  "name": "Crystal Palace vs Lech Poznan",
-                  "streams": [
-                    {
-                      "id": "st-07d1bd3b9b",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-21a9a4756f",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789617204_hd/1789617204_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Crystal Palace",
-            "team_b": "Lech Poznan",
-            "logo_a": "https://images.keovip88.net/images/teams/crystal-palace.png",
-            "logo_b": "https://images.keovip88.net/images/teams/lech-poznan.png",
-            "time": "02:00:00",
-            "date": "18/09",
-            "blv": "Mason",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a94c4d6164566b7f70b437a_424b5341_20260918.png?v=424b5341",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-d999284110",
-          "name": "Juventus vs N.E.C. Nijmegen | 02:00 18/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-d999284110",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-d999284110",
-                  "name": "Juventus vs N.E.C. Nijmegen",
-                  "streams": [
-                    {
-                      "id": "st-d999284110",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-de0c34aa01",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789617234_hd/1789617234_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Juventus",
-            "team_b": "N.E.C. Nijmegen",
-            "logo_a": "https://images.keovip88.net/images/teams/juventus.png",
-            "logo_b": "https://images.keovip88.net/images/teams/nec-nijmegen.png",
-            "time": "02:00:00",
-            "date": "18/09",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a93738cfccd5ecc44060e78_0bdf4c05_20260918.png?v=0bdf4c05",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-f0a84b2ce6",
-          "name": "Real Sociedad vs AFC Bournemouth | 02:00 18/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f0a84b2ce6",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f0a84b2ce6",
-                  "name": "Real Sociedad vs AFC Bournemouth",
-                  "streams": [
-                    {
-                      "id": "st-f0a84b2ce6",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-2584449cb9",
-                          "name": "Súp",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789617260_hd/1789617260_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "C2",
-            "team_a": "Real Sociedad",
-            "team_b": "AFC Bournemouth",
-            "logo_a": "https://images.keovip88.net/images/teams/real-sociedad.png",
-            "logo_b": "https://images.keovip88.net/images/teams/afc-bournemouth.png",
-            "time": "02:00:00",
-            "date": "18/09",
-            "blv": "Súp",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6a94c4d6164566b7f70b437c_7180b618_20260918.png?v=7180b618",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-08de8e0a2d",
-          "name": "Vanraure Hachinohe FC vs Miyazaki | 11:00 18/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-08de8e0a2d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-08de8e0a2d",
-                  "name": "Vanraure Hachinohe FC vs Miyazaki",
-                  "streams": [
-                    {
-                      "id": "st-08de8e0a2d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-b290ad404e",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789662037_hd/1789662037_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hạng 2 Nhật Bản",
-            "team_a": "Vanraure Hachinohe FC",
-            "team_b": "Miyazaki",
-            "logo_a": "https://images.keovip88.net/images/teams/vanraure-hachinohe-fc.png",
-            "logo_b": "https://images.keovip88.net/images/teams/miyazaki.png",
-            "time": "11:00:00",
-            "date": "18/09",
-            "blv": "Hấu",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/6aa88a9824d46db8704892ad_0bae54f4_20260918.png?v=0bae54f4",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-fe5f856d56",
-          "name": "U23 Philippies vs U23 Việt Nam | 13:30 18/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-fe5f856d56",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-fe5f856d56",
-                  "name": "U23 Philippies vs U23 Việt Nam",
-                  "streams": [
-                    {
-                      "id": "st-fe5f856d56",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-f32640e4f4",
-                          "name": "Bee",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789662370_hd/1789662370_hd@720p.m3u8",
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789725670_hd/1789725670_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -501,11 +141,731 @@
           ],
           "org_metadata": {
             "league": "ASIAD 2026",
-            "team_a": "U23 Philippies",
-            "team_b": "U23 Việt Nam",
-            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/SMAJOAEhYfXLrR5oOCzaYg_96x96.png",
-            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",
-            "time": "13:30:00",
+            "team_a": "U23 Kuwait",
+            "team_b": "U23 Uzbekistan",
+            "logo_a": "https://static.flashscore.com/res/image/data/8EISN0FG-pYWEJTrt.png",
+            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/9-A8iDJhj09K55En7WPQBg_96x96.png",
+            "time": "17:00:00",
+            "date": "18/09",
+            "blv": "Ngọng",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/uz3jeoptmv0l_b29a78aa_20260918.png?v=b29a78aa",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-20fc065ee8",
+          "name": "U23 Saudi Arabia vs U23 Qatar | 17:30 18/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-20fc065ee8",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-20fc065ee8",
+                  "name": "U23 Saudi Arabia vs U23 Qatar",
+                  "streams": [
+                    {
+                      "id": "st-20fc065ee8",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d43f6c2940",
+                          "name": "Ngu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789713130_hd/1789713130_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "ASIAD 2026",
+            "team_a": "U23 Saudi Arabia",
+            "team_b": "U23 Qatar",
+            "logo_a": "https://images.keovip88.net/images/teams/saudi-arabia-u23.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/QXUbAsYg-xdsSUnwr.png",
+            "time": "17:30:00",
+            "date": "18/09",
+            "blv": "Ngu",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/ahyc8fsecbud_cb16b129_20260918.png?v=cb16b129",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-3080a990b4",
+          "name": "Dalian Kun City vs Shanghai Jiading City Fight Fat | 18:00 18/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-3080a990b4",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-3080a990b4",
+                  "name": "Dalian Kun City vs Shanghai Jiading City Fight Fat",
+                  "streams": [
+                    {
+                      "id": "st-3080a990b4",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-874eca4357",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789713259_hd/1789713259_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng Nhất Trung Quốc",
+            "team_a": "Dalian Kun City",
+            "team_b": "Shanghai Jiading City Fight Fat",
+            "logo_a": "https://images.keovip88.net/images/teams/dalian-kun-city.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ningbo-professional-football-club.png",
+            "time": "18:00:00",
+            "date": "18/09",
+            "blv": "Bee",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88a9924d46db870489443_fddea515_20260918.png?v=fddea515",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ac745c22d9",
+          "name": "Bình Định vs TP Hồ Chí Minh | 18:00 18/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ac745c22d9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ac745c22d9",
+                  "name": "Bình Định vs TP Hồ Chí Minh",
+                  "streams": [
+                    {
+                      "id": "st-ac745c22d9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-814e54a9b0",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789713222_hd/1789713222_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Cúp Quốc gia Việt Nam",
+            "team_a": "Bình Định",
+            "team_b": "TP Hồ Chí Minh",
+            "logo_a": "https://images.keovip88.net/images/teams/binh-dinh.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ho-chi-minh-city.png",
+            "time": "18:00:00",
+            "date": "18/09",
+            "blv": "Súp",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6a93733afccd5ecc44060dac_06368351_20260918.png?v=06368351",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8fcec85785",
+          "name": "Nantong Zhiyun vs Guangxi Hengchen | 18:30 18/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8fcec85785",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8fcec85785",
+                  "name": "Nantong Zhiyun vs Guangxi Hengchen",
+                  "streams": [
+                    {
+                      "id": "st-8fcec85785",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-7b6a07ce83",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789713334_hd/1789713334_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng Nhất Trung Quốc",
+            "team_a": "Nantong Zhiyun",
+            "team_b": "Guangxi Hengchen",
+            "logo_a": "https://images.keovip88.net/images/teams/nantong-zhiyun.png",
+            "logo_b": "https://images.keovip88.net/images/teams/guangxi-hengchen.png",
+            "time": "18:30:00",
+            "date": "18/09",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88a9924d46db87048949e_8ed4e06a_20260918.png?v=8ed4e06a",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-294047225b",
+          "name": "Madura United vs PSIM Yogyakarta | 19:00 18/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-294047225b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-294047225b",
+                  "name": "Madura United vs PSIM Yogyakarta",
+                  "streams": [
+                    {
+                      "id": "st-294047225b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-04edf7e389",
+                          "name": "Tỵ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789715052_hd/1789715052_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Indonesia",
+            "team_a": "Madura United",
+            "team_b": "PSIM Yogyakarta",
+            "logo_a": "https://images.keovip88.net/images/teams/madura-united.png",
+            "logo_b": "https://images.keovip88.net/images/teams/psim-yogyakarta.png",
+            "time": "19:00:00",
+            "date": "18/09",
+            "blv": "Tỵ",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88a9924d46db87048951c_19c522fe_20260918.png?v=19c522fe",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-50c89b61ea",
+          "name": "Ayutthaya United vs Uthai Thani FC | 19:00 18/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-50c89b61ea",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-50c89b61ea",
+                  "name": "Ayutthaya United vs Uthai Thani FC",
+                  "streams": [
+                    {
+                      "id": "st-50c89b61ea",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a69e89dac0",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789713417_hd/1789713417_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VĐQG Thái Lan",
+            "team_a": "Ayutthaya United",
+            "team_b": "Uthai Thani FC",
+            "logo_a": "https://images.keovip88.net/images/teams/ayutthaya-united.png",
+            "logo_b": "https://images.keovip88.net/images/teams/uthai-thani-fc.png",
+            "time": "19:00:00",
+            "date": "18/09",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88a9924d46db870489505_45521d15_20260918.png?v=45521d15",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-456dac5c64",
+          "name": "FC Chelyabinsk vs Bashinformsvyaz-Dynamo Ufa | 21:00 18/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-456dac5c64",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-456dac5c64",
+                  "name": "FC Chelyabinsk vs Bashinformsvyaz-Dynamo Ufa",
+                  "streams": [
+                    {
+                      "id": "st-456dac5c64",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-6304c24d3c",
+                          "name": "Hấu",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789713455_hd/1789713455_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải Hạng 2 Nga",
+            "team_a": "FC Chelyabinsk",
+            "team_b": "Bashinformsvyaz-Dynamo Ufa",
+            "logo_a": "https://images.keovip88.net/images/teams/chelyabinsk.png",
+            "logo_b": "https://images.keovip88.net/images/teams/fc-ufa.png",
+            "time": "21:00:00",
+            "date": "18/09",
+            "blv": "Hấu",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa0a19a24d46db870536bca_ae782983_20260918.png?v=ae782983",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-7194854dbd",
+          "name": "Volga Ulyanovsk vs Spartak Kostroma | 21:00 18/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7194854dbd",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7194854dbd",
+                  "name": "Volga Ulyanovsk vs Spartak Kostroma",
+                  "streams": [
+                    {
+                      "id": "st-7194854dbd",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-ce09fc6cac",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789713536_hd/1789713536_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải Hạng 2 Nga",
+            "team_a": "Volga Ulyanovsk",
+            "team_b": "Spartak Kostroma",
+            "logo_a": "https://images.keovip88.net/images/teams/volga-ulyanovsk.png",
+            "logo_b": "https://images.keovip88.net/images/teams/spartak-kostroma.png",
+            "time": "21:00:00",
+            "date": "18/09",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa0a19b24d46db870536c04_1d788274_20260918.png?v=1d788274",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-7939c23d18",
+          "name": "Neftekhimik Nizhnekamsk vs Ural S.r. | 22:00 18/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-7939c23d18",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-7939c23d18",
+                  "name": "Neftekhimik Nizhnekamsk vs Ural S.r.",
+                  "streams": [
+                    {
+                      "id": "st-7939c23d18",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a2830d8f0d",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789713594_hd/1789713594_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải Hạng 2 Nga",
+            "team_a": "Neftekhimik Nizhnekamsk",
+            "team_b": "Ural S.r.",
+            "logo_a": "https://images.keovip88.net/images/teams/neftekhimik-nizhnekamsk.png",
+            "logo_b": "https://images.keovip88.net/images/teams/ural-sverdlovsk-oblast.png",
+            "time": "22:00:00",
+            "date": "18/09",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa0a19a24d46db870536bd2_707e0d53_20260918.png?v=707e0d53",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-80eec3639e",
+          "name": "Shinnik Yaroslavl vs KamAZ | 22:30 18/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-80eec3639e",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-80eec3639e",
+                  "name": "Shinnik Yaroslavl vs KamAZ",
+                  "streams": [
+                    {
+                      "id": "st-80eec3639e",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-28d2bfbd87",
+                          "name": "Bee",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789714181_hd/1789714181_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Giải Hạng 2 Nga",
+            "team_a": "Shinnik Yaroslavl",
+            "team_b": "KamAZ",
+            "logo_a": "https://images.keovip88.net/images/teams/shinnik-yaroslavl.png",
+            "logo_b": "https://images.keovip88.net/images/teams/kamaz-naberezhnye-chelny.png",
+            "time": "22:30:00",
             "date": "18/09",
             "blv": "Bee",
             "is_live": false,
@@ -515,7 +875,439 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/8ahyjivpgrmh_9a20027e_20260918.png?v=9a20027e",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa0a19a24d46db870536be3_12da1520_20260918.png?v=12da1520",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-e89dd8d4ed",
+          "name": "Greuther Furth vs FC Magdeburg | 23:30 18/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-e89dd8d4ed",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-e89dd8d4ed",
+                  "name": "Greuther Furth vs FC Magdeburg",
+                  "streams": [
+                    {
+                      "id": "st-e89dd8d4ed",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-bd8c00a0e6",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789719265_hd/1789719265_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng hai Đức",
+            "team_a": "Greuther Furth",
+            "team_b": "FC Magdeburg",
+            "logo_a": "https://images.keovip88.net/images/teams/greuther-furth.png",
+            "logo_b": "https://images.keovip88.net/images/teams/magdeburg.png",
+            "time": "23:30:00",
+            "date": "18/09",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88a9c24d46db870489db4_c2e50421_20260918.png?v=c2e50421",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-4203dd95cf",
+          "name": "Bayern Munich vs Union Berlin | 01:30 19/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-4203dd95cf",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-4203dd95cf",
+                  "name": "Bayern Munich vs Union Berlin",
+                  "streams": [
+                    {
+                      "id": "st-4203dd95cf",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-a7aae44006",
+                          "name": "Ngọng",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789719648_hd/1789719648_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Bundesliga",
+            "team_a": "Bayern Munich",
+            "team_b": "Union Berlin",
+            "logo_a": "https://images.keovip88.net/images/teams/bayern-munchen.png",
+            "logo_b": "https://images.keovip88.net/images/teams/union-berlin.png",
+            "time": "01:30:00",
+            "date": "19/09",
+            "blv": "Ngọng",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88aa324d46db87048b1f7_f3317959_20260918.png?v=f3317959",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b685fbbb2c",
+          "name": "Monza vs US Sassuolo Calcio | 01:45 19/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b685fbbb2c",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b685fbbb2c",
+                  "name": "Monza vs US Sassuolo Calcio",
+                  "streams": [
+                    {
+                      "id": "st-b685fbbb2c",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-19d5addc59",
+                          "name": "Súp",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789719774_hd/1789719774_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Seria A",
+            "team_a": "Monza",
+            "team_b": "US Sassuolo Calcio",
+            "logo_a": "https://images.keovip88.net/images/teams/monza.png",
+            "logo_b": "https://images.keovip88.net/images/teams/sassuolo.png",
+            "time": "01:45:00",
+            "date": "19/09",
+            "blv": "Súp",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88aa324d46db87048b2f2_0eaae05f_20260918.png?v=0eaae05f",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-dc5af90b9d",
+          "name": "Brentford vs Chelsea FC | 02:00 19/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-dc5af90b9d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-dc5af90b9d",
+                  "name": "Brentford vs Chelsea FC",
+                  "streams": [
+                    {
+                      "id": "st-dc5af90b9d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-8343a164ec",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789719936_hd/1789719936_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Brentford",
+            "team_b": "Chelsea FC",
+            "logo_a": "https://images.keovip88.net/images/teams/brentford.png",
+            "logo_b": "https://images.keovip88.net/images/teams/chelsea.png",
+            "time": "02:00:00",
+            "date": "19/09",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88aa324d46db87048b47a_bb340d3c_20260918.png?v=bb340d3c",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-8bf80bdbc9",
+          "name": "Espanyol vs Elche | 02:00 19/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-8bf80bdbc9",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-8bf80bdbc9",
+                  "name": "Espanyol vs Elche",
+                  "streams": [
+                    {
+                      "id": "st-8bf80bdbc9",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-78766605e4",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789720022_hd/1789720022_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Espanyol",
+            "team_b": "Elche",
+            "logo_a": "https://images.keovip88.net/images/teams/rcd-espanyol.png",
+            "logo_b": "https://images.keovip88.net/images/teams/elche.png",
+            "time": "02:00:00",
+            "date": "19/09",
+            "blv": "Mason",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88aa324d46db87048b48b_5ae00598_20260918.png?v=5ae00598",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-bc11138ec0",
+          "name": "DC Power W vs Tampa Bay Sun W | 06:00 19/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-bc11138ec0",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-bc11138ec0",
+                  "name": "DC Power W vs Tampa Bay Sun W",
+                  "streams": [
+                    {
+                      "id": "st-bc11138ec0",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-251262506c",
+                          "name": "Mù",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789720297_hd/1789720297_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "USL Super League Women",
+            "team_a": "DC Power W",
+            "team_b": "Tampa Bay Sun W",
+            "logo_a": "https://static.flashscore.com/res/image/data/MXMGC7h5-OW9X31zs.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/tbZgp3yB-YZ45kxuU.png",
+            "time": "06:00:00",
+            "date": "19/09",
+            "blv": "Mù",
+            "is_live": false,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/u4ttunz7ahg7_e53fc287_20260918.png?v=e53fc287",
             "width": 1600,
             "height": 1200
           }
@@ -530,8 +1322,8 @@
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-953d61c09f",
-          "name": "Atlanta Dream vs Connecticut Sun | 06:30 18/09",
+          "id": "gv-3b8cde72ff",
+          "name": "Zenit Petersburg vs Efes Pilsen | 21:00 18/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -545,23 +1337,167 @@
           ],
           "sources": [
             {
-              "id": "src-953d61c09f",
+              "id": "src-3b8cde72ff",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-953d61c09f",
-                  "name": "Atlanta Dream vs Connecticut Sun",
+                  "id": "ct-3b8cde72ff",
+                  "name": "Zenit Petersburg vs Efes Pilsen",
                   "streams": [
                     {
-                      "id": "st-953d61c09f",
+                      "id": "st-3b8cde72ff",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-727595aff8",
-                          "name": "Chồn",
+                          "id": "lnk-d5c3f5b08c",
+                          "name": "Ben",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789617292_hd/1789617292_hd@720p.m3u8",
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789714291_hd/1789714291_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "VTB United League",
+            "team_a": "Zenit Petersburg",
+            "team_b": "Efes Pilsen",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/6e8263fd433a54262f3436a1878b7d6c.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/39e14cf9edd095fe5daed21f75b67bd3.png",
+            "time": "21:00:00",
+            "date": "18/09",
+            "blv": "Ben",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/38567376_1365aca2_20260918.png?v=1365aca2",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-c58b26fc61",
+          "name": "Dubai vs Real Madrid Teka | 00:00 19/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c58b26fc61",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c58b26fc61",
+                  "name": "Dubai vs Real Madrid Teka",
+                  "streams": [
+                    {
+                      "id": "st-c58b26fc61",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-402a5acccd",
+                          "name": "Tôm",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789719583_hd/1789719583_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Euroleague SuperCup",
+            "team_a": "Dubai",
+            "team_b": "Real Madrid Teka",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/38e7f6ed6a1053e25c1f5d60fbf563b2.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/baacc764f89f2ce4c22b48768946ca5a.png",
+            "time": "00:00:00",
+            "date": "19/09",
+            "blv": "Tôm",
+            "is_live": false,
+            "cate_type": "basketball"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/33748372_2f42a337_20260918.png?v=2f42a337",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-9028b5b03d",
+          "name": "Minnesota Lynx vs New York Liberty | 06:30 19/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-9028b5b03d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-9028b5b03d",
+                  "name": "Minnesota Lynx vs New York Liberty",
+                  "streams": [
+                    {
+                      "id": "st-9028b5b03d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-d9d89fe9d5",
+                          "name": "Ben",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789720399_hd/1789720399_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -582,13 +1518,13 @@
           ],
           "org_metadata": {
             "league": "Women’s National Basketball Association",
-            "team_a": "Atlanta Dream",
-            "team_b": "Connecticut Sun",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/f527c983cab3560c60e7b9d147904d7d.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/691f1fbb808378a5c4cb07fa320d017d.png",
+            "team_a": "Minnesota Lynx",
+            "team_b": "New York Liberty",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/df5084b6a0e471356f94c0d460105072.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/7a41b2cf98e8350722b096134858af8e.png",
             "time": "06:30:00",
-            "date": "18/09",
-            "blv": "Chồn",
+            "date": "19/09",
+            "blv": "Ben",
             "is_live": false,
             "cate_type": "basketball"
           },
@@ -596,14 +1532,14 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/11325078_a8f15a08_20260918.png?v=a8f15a08",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/26325073_180df4ab_20260918.png?v=180df4ab",
             "width": 1600,
             "height": 1200
           }
         },
         {
-          "id": "gv-6f46652482",
-          "name": "Chicago Sky vs Washington Mystics | 07:00 18/09",
+          "id": "gv-c2df89a70e",
+          "name": "Toronto Tempo vs Indiana Fever | 06:30 19/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
@@ -617,23 +1553,23 @@
           ],
           "sources": [
             {
-              "id": "src-6f46652482",
+              "id": "src-c2df89a70e",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-6f46652482",
-                  "name": "Chicago Sky vs Washington Mystics",
+                  "id": "ct-c2df89a70e",
+                  "name": "Toronto Tempo vs Indiana Fever",
                   "streams": [
                     {
-                      "id": "st-6f46652482",
+                      "id": "st-c2df89a70e",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-4f74b4a028",
+                          "id": "lnk-c1f555771d",
                           "name": "Vịt",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789662412_hd/1789662412_hd@720p.m3u8",
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789720433_hd/1789720433_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -654,12 +1590,12 @@
           ],
           "org_metadata": {
             "league": "Women’s National Basketball Association",
-            "team_a": "Chicago Sky",
-            "team_b": "Washington Mystics",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/0a570e6f3972fccc8370091d6ffdef5e.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/e4fdbc941d11c2927bafb5b8978e8ea6.png",
-            "time": "07:00:00",
-            "date": "18/09",
+            "team_a": "Toronto Tempo",
+            "team_b": "Indiana Fever",
+            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/2144aaf701fac7e3c3caf3853aeb9929.png",
+            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/2672748dfcca12a59823b97a08ffb22d.png",
+            "time": "06:30:00",
+            "date": "19/09",
             "blv": "Vịt",
             "is_live": false,
             "cate_type": "basketball"
@@ -668,367 +1604,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/12325079_cfdaa925_20260918.png?v=cfdaa925",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-b4af475ead",
-          "name": "Dallas Wings vs Los Angeles Sparks | 07:00 18/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b4af475ead",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b4af475ead",
-                  "name": "Dallas Wings vs Los Angeles Sparks",
-                  "streams": [
-                    {
-                      "id": "st-b4af475ead",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-7ee0f838ff",
-                          "name": "Tôm",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789662479_hd/1789662479_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Women’s National Basketball Association",
-            "team_a": "Dallas Wings",
-            "team_b": "Los Angeles Sparks",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/17dcd412f5ecfaa1bc4b85e6e39bc0c4.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/32f21070cfd05affb7125a707c2b3b37.png",
-            "time": "07:00:00",
-            "date": "18/09",
-            "blv": "Tôm",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/23325070_631ed606_20260918.png?v=631ed606",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-58bf749652",
-          "name": "South Korea (W) vs Malaysia (W) | 08:00 18/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-58bf749652",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-58bf749652",
-                  "name": "South Korea (W) vs Malaysia (W)",
-                  "streams": [
-                    {
-                      "id": "st-58bf749652",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-1394236b0e",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789662442_hd/1789662442_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Women's basketball match of the Asian Games",
-            "team_a": "South Korea (W)",
-            "team_b": "Malaysia (W)",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/80f4ac7926dcf255ec6d32d271755d1a.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/d70fd4c5120606a13bab499146cbba1a.png",
-            "time": "08:00:00",
-            "date": "18/09",
-            "blv": "Cầy",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/23456378_8f949bd3_20260918.png?v=8f949bd3",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-6c679312a6",
-          "name": "Portland Fire vs Phoenix Mercury | 09:00 18/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-6c679312a6",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-6c679312a6",
-                  "name": "Portland Fire vs Phoenix Mercury",
-                  "streams": [
-                    {
-                      "id": "st-6c679312a6",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-e866c75b2c",
-                          "name": "Tôm",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789662510_hd/1789662510_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Women’s National Basketball Association",
-            "team_a": "Portland Fire",
-            "team_b": "Phoenix Mercury",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/687f4fda7efc61afefa80ee3591a56f2.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/f35ccb51f91cd187f149d4d55fc6be24.png",
-            "time": "09:00:00",
-            "date": "18/09",
-            "blv": "Tôm",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/24325071_032049e5_20260918.png?v=032049e5",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-f6c9495311",
-          "name": "Seattle Storm vs Las Vegas Aces | 09:00 18/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-f6c9495311",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-f6c9495311",
-                  "name": "Seattle Storm vs Las Vegas Aces",
-                  "streams": [
-                    {
-                      "id": "st-f6c9495311",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-a6cbe050f5",
-                          "name": "Vịt",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789662542_hd/1789662542_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Women’s National Basketball Association",
-            "team_a": "Seattle Storm",
-            "team_b": "Las Vegas Aces",
-            "logo_a": "https://cdn.keobongvip.digital/images/basketball-teams/f9c0c5ff8557d6be9b17f1ab94781948.png",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/cbf9424df17d6e06d655dca78651d329.png",
-            "time": "09:00:00",
-            "date": "18/09",
-            "blv": "Vịt",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/25325072_9a1882e2_20260918.png?v=9a1882e2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-5e64ba1709",
-          "name": "Chinese Taipei (W) vs Mongolia (W) | 11:00 18/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-5e64ba1709",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-5e64ba1709",
-                  "name": "Chinese Taipei (W) vs Mongolia (W)",
-                  "streams": [
-                    {
-                      "id": "st-5e64ba1709",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-c16045c275",
-                          "name": "Cầy",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789662585_hd/1789662585_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Women's basketball match of the Asian Games",
-            "team_a": "Chinese Taipei (W)",
-            "team_b": "Mongolia (W)",
-            "logo_a": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ62Ss5AllP6wiixu-3AAcjXD2dEGon_UoOwRMwkaPF7A&s=10",
-            "logo_b": "https://cdn.keobongvip.digital/images/basketball-teams/66a4c6ed1029c0338a50ad413bfaf118.jpg",
-            "time": "11:00:00",
-            "date": "18/09",
-            "blv": "Cầy",
-            "is_live": false,
-            "cate_type": "basketball"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/24456379_fab3eb1f_20260918.png?v=fab3eb1f",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/27325074_f50643d8_20260918.png?v=f50643d8",
             "width": 1600,
             "height": 1200
           }
@@ -1037,116 +1613,44 @@
     },
     {
       "id": "cate_bongchuyen",
-      "name": "🏐 Bóng Chuyền",
+      "name": "🏐 Bóng Chuyền (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-cb4e7cd51f",
-          "name": "Italia vs Slovenia | 02:05 18/09",
+          "id": "gv-ddd86534e6",
+          "name": "Thái Lan vs Đài Bắc Trung Hoa | 17:00 18/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
             {
-              "id": "src-cb4e7cd51f",
+              "id": "src-ddd86534e6",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-cb4e7cd51f",
-                  "name": "Italia vs Slovenia",
+                  "id": "ct-ddd86534e6",
+                  "name": "Thái Lan vs Đài Bắc Trung Hoa",
                   "streams": [
                     {
-                      "id": "st-cb4e7cd51f",
+                      "id": "st-ddd86534e6",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-9ca57c6852",
-                          "name": "Tôm",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789617384_hd/1789617384_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "European Championship",
-            "team_a": "Italia",
-            "team_b": "Slovenia",
-            "logo_a": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Logo_Italy_National_Womens_Football_Team_2023_%28no_stars%29.svg",
-            "logo_b": "https://static.flashscore.com/res/image/data/tOvKhGDa-zNyrigZg.png",
-            "time": "02:05:00",
-            "date": "18/09",
-            "blv": "Tôm",
-            "is_live": false,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/x3qoe9wx5a8h_b23c234f_20260918.png?v=b23c234f",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-093b17eb05",
-          "name": "Kazakhstan vs China | 11:00 18/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-093b17eb05",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-093b17eb05",
-                  "name": "Kazakhstan vs China",
-                  "streams": [
-                    {
-                      "id": "st-093b17eb05",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-dc7e091ec2",
+                          "id": "lnk-6e16d2ef81",
                           "name": "Sún",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789662648_hd/1789662648_hd@720p.m3u8",
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789714427_hd/1789714427_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1167,58 +1671,58 @@
           ],
           "org_metadata": {
             "league": "Asiad 2026",
-            "team_a": "Kazakhstan",
-            "team_b": "China",
-            "logo_a": "https://static.flashscore.com/res/image/data/vqsq5vCa-tSGrtxe3.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/4Cu1L1il-tSK2wunr.png",
-            "time": "11:00:00",
+            "team_a": "Thái Lan",
+            "team_b": "Đài Bắc Trung Hoa",
+            "logo_a": "https://static.flashscore.com/res/image/data/jH8flBZA-UknO2XLh.png",
+            "logo_b": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Chinese_Taipei_for_Olympic_Games.svg",
+            "time": "17:00:00",
             "date": "18/09",
             "blv": "Sún",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/uphn7qe1cn8a_95017e32_20260918.png?v=95017e32",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/eqcov1stdl2e_424b8fee_20260918.png?v=424b8fee",
             "width": 1600,
             "height": 1200
           }
         },
         {
-          "id": "gv-32077fd191",
-          "name": "Quatar vs Hồng Kông | 11:00 18/09",
+          "id": "gv-6d1e34baa4",
+          "name": "Nhật Bản vs Indonesia | 17:20 18/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
             {
-              "id": "src-32077fd191",
+              "id": "src-6d1e34baa4",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-32077fd191",
-                  "name": "Quatar vs Hồng Kông",
+                  "id": "ct-6d1e34baa4",
+                  "name": "Nhật Bản vs Indonesia",
                   "streams": [
                     {
-                      "id": "st-32077fd191",
+                      "id": "st-6d1e34baa4",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-1c7d85bb38",
-                          "name": "Điếc",
+                          "id": "lnk-a15cd28126",
+                          "name": "Cầy",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789662860_hd/1789662860_hd@720p.m3u8",
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789714499_hd/1789714499_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1239,165 +1743,21 @@
           ],
           "org_metadata": {
             "league": "Asiad 2026",
-            "team_a": "Quatar",
-            "team_b": "Hồng Kông",
-            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/h0FNA5YxLzWChHS5K0o4gw_96x96.png",
-            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/clVmlDCDO7GWBc-a97NfZQ_96x96.png",
-            "time": "11:00:00",
+            "team_a": "Nhật Bản",
+            "team_b": "Indonesia",
+            "logo_a": "https://static.flashscore.com/res/image/data/S49ci8h5-YqrtLoTa.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/WvrcHkXg-QBz8eAFI.png",
+            "time": "17:20:00",
             "date": "18/09",
-            "blv": "Điếc",
-            "is_live": false,
+            "blv": "Cầy",
+            "is_live": true,
             "cate_type": "bongchuyen"
           },
           "image": {
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/2vofudkoa26a_14684986_20260918.png?v=14684986",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-c5a8782c02",
-          "name": "Việt Nam vs Hàn Quốc | 14:00 18/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c5a8782c02",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c5a8782c02",
-                  "name": "Việt Nam vs Hàn Quốc",
-                  "streams": [
-                    {
-                      "id": "st-c5a8782c02",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-753a5bd91e",
-                          "name": "Sún",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789662698_hd/1789662698_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asiad 2026",
-            "team_a": "Việt Nam",
-            "team_b": "Hàn Quốc",
-            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",
-            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/Uu5pwNmMHGd5bCooKrS3Lw_96x96.png",
-            "time": "14:00:00",
-            "date": "18/09",
-            "blv": "Sún",
-            "is_live": false,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/njm3g744wc90_b2e10c6a_20260918.png?v=b2e10c6a",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-ec47a01d6f",
-          "name": "Mông Cổ vs Kyrgyzstan | 14:00 18/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-ec47a01d6f",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-ec47a01d6f",
-                  "name": "Mông Cổ vs Kyrgyzstan",
-                  "streams": [
-                    {
-                      "id": "st-ec47a01d6f",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-52cfb19a5c",
-                          "name": "Điếc",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789662744_hd/1789662744_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Asiad 2026",
-            "team_a": "Mông Cổ",
-            "team_b": "Kyrgyzstan",
-            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/J1GVv__Jofi9-GD11pYhhg_96x96.png",
-            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/KN-7WnOfDfIicywii8dtzw_96x96.png",
-            "time": "14:00:00",
-            "date": "18/09",
-            "blv": "Điếc",
-            "is_live": false,
-            "cate_type": "bongchuyen"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/vse5kzh57gfn_d8476913_20260918.png?v=d8476913",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/ppr8etstmtqv_482ceb37_20260918.png?v=482ceb37",
             "width": 1600,
             "height": 1200
           }
@@ -1406,44 +1766,44 @@
     },
     {
       "id": "cate_esport",
-      "name": "🎮 Esport",
+      "name": "🎮 Esport (2 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
         {
-          "id": "gv-2af0a5b14d",
-          "name": "Buffalo Bills vs Detroit Lions | 07:15 18/09",
+          "id": "gv-642f293687",
+          "name": "JDG vs We | 15:58 18/09",
           "type": "single",
           "display": "thumbnail-only",
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
             {
-              "id": "src-2af0a5b14d",
+              "id": "src-642f293687",
               "name": "GiovangTV",
               "contents": [
                 {
-                  "id": "ct-2af0a5b14d",
-                  "name": "Buffalo Bills vs Detroit Lions",
+                  "id": "ct-642f293687",
+                  "name": "JDG vs We",
                   "streams": [
                     {
-                      "id": "st-2af0a5b14d",
+                      "id": "st-642f293687",
                       "name": "GV",
                       "stream_links": [
                         {
-                          "id": "lnk-94a39a9011",
+                          "id": "lnk-c44cca4162",
                           "name": "Riko",
                           "type": "hls",
                           "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789662984_hd/1789662984_hd@720p.m3u8",
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789721636_hd/1789721636_hd@720p.m3u8",
                           "request_headers": [
                             {
                               "key": "Referer",
@@ -1463,14 +1823,158 @@
             }
           ],
           "org_metadata": {
-            "league": "NFL",
-            "team_a": "Buffalo Bills",
-            "team_b": "Detroit Lions",
-            "logo_a": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/t-WvhVQI8fKZliuPz7RLKQ_96x96.png",
-            "logo_b": "https://ssl.gstatic.com/onebox/media/sports/logos/optimized/0vpUGyYGKQ3ILA3rTI-sEA_96x96.png",
-            "time": "07:15:00",
+            "league": "Liên minh huyền thoại",
+            "team_a": "JDG",
+            "team_b": "We",
+            "logo_a": "https://static.flashscore.com/res/image/data/4Aoo4weM-MLEBzXUg.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/rFWqQsgl-Mqc5HTbN.png",
+            "time": "15:58:00",
             "date": "18/09",
             "blv": "Riko",
+            "is_live": true,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/yviywswkqem8_96c5b4a7_20260918.png?v=96c5b4a7",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-a1659fda49",
+          "name": "MOUZ vs NAVI | 17:00 18/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-a1659fda49",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-a1659fda49",
+                  "name": "MOUZ vs NAVI",
+                  "streams": [
+                    {
+                      "id": "st-a1659fda49",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-fc1692f136",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789723457_hd/1789723457_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Lol",
+            "team_a": "MOUZ",
+            "team_b": "NAVI",
+            "logo_a": "https://static.flashscore.com/res/image/data/ObrRkAe5-xrMguOa9.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/nyckaNwS-dMZzuAHL.png",
+            "time": "17:00:00",
+            "date": "18/09",
+            "blv": "Mickey",
+            "is_live": true,
+            "cate_type": "esport"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/i2syadujaqdi_d7549429_20260918.png?v=d7549429",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-ad44f0312b",
+          "name": "VIT vs FURIA | 00:30 19/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "🕐 Sắp",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#aaaaaa"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-ad44f0312b",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-ad44f0312b",
+                  "name": "VIT vs FURIA",
+                  "streams": [
+                    {
+                      "id": "st-ad44f0312b",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-880b38d98b",
+                          "name": "Mickey",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789720948_hd/1789720948_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "CS2-StarLadder StarSeries Fall",
+            "team_a": "VIT",
+            "team_b": "FURIA",
+            "logo_a": "https://static.flashscore.com/res/image/data/C8zF3GEG-lG2kTCDf.png",
+            "logo_b": "https://static.flashscore.com/res/image/data/G2z2rzf5-EgrECzdn.png",
+            "time": "00:30:00",
+            "date": "19/09",
+            "blv": "Mickey",
             "is_live": false,
             "cate_type": "esport"
           },
@@ -1478,7 +1982,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/rtp26tvjct3n_8cb7b254_20260918.png?v=8cb7b254",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/62guyqgkw6jh_322871c8_20260918.png?v=322871c8",
             "width": 1600,
             "height": 1200
           }
@@ -1559,7 +2063,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/larx8mie0sk2_87a9d6fb_20260918.png?v=87a9d6fb",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/larx8mie0sk2_87a9d6fb_20260918.png?v=87a9d6fb",
             "width": 1600,
             "height": 1200
           }
@@ -1631,7 +2135,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/ty1nn69th37m_f8d4c999_20260918.png?v=f8d4c999",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/ty1nn69th37m_f8d4c999_20260918.png?v=f8d4c999",
             "width": 1600,
             "height": 1200
           }
@@ -1703,7 +2207,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/a2zt8mldckd3_9f063d9a_20260918.png?v=9f063d9a",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/a2zt8mldckd3_9f063d9a_20260918.png?v=9f063d9a",
             "width": 1600,
             "height": 1200
           }
@@ -1775,7 +2279,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/t81vplztkyiu_dc760bd5_20260918.png?v=dc760bd5",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/t81vplztkyiu_dc760bd5_20260918.png?v=dc760bd5",
             "width": 1600,
             "height": 1200
           }
@@ -1847,7 +2351,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/hbxb5hmfy6ng_db1b1409_20260918.png?v=db1b1409",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/hbxb5hmfy6ng_db1b1409_20260918.png?v=db1b1409",
             "width": 1600,
             "height": 1200
           }
@@ -1919,7 +2423,7 @@
             "padding": 1,
             "background_color": "#ffffff",
             "display": "contain",
-            "url": "https://raw.githubusercontent.com/jasminliu98/giovang-stream/refs/heads/main/thumbs/n6a9m7k6zd4z_a0d829ba_20260918.png?v=a0d829ba",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/n6a9m7k6zd4z_a0d829ba_20260918.png?v=a0d829ba",
             "width": 1600,
             "height": 1200
           }

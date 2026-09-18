@@ -2,9 +2,10 @@ name: Run Scraper
 
 on:
   workflow_dispatch:
-  # Otomatis setiap 10 menit
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: "*/10 * * * *"   # setiap 10 menit
+    # atau gunakan:
+    # - cron: "0 */3 * * *"  # setiap 3 jam
 
 permissions:
   contents: write
@@ -17,8 +18,8 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -27,12 +28,14 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests Pillow
+          python -m pip install --upgrade pip
+          pip install requests Pillow curl_cffi
 
       - name: Run scraper
-        run: python scraper.py
         env:
           REPO_RAW: https://raw.githubusercontent.com/${{ github.repository }}/refs/heads/main
+        run: |
+          python scraper.py
 
       - name: Commit output
         run: |
@@ -41,9 +44,10 @@ jobs:
 
           git add output.json thumbs/
 
-          if ! git diff --cached --quiet; then
-            git commit -m "Update output [skip ci]"
-            git push
-          else
-            echo "No changes to commit."
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
           fi
+
+          git commit -m "Update output [skip ci]"
+          git push

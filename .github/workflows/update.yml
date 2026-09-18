@@ -4,8 +4,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "*/10 * * * *"   # setiap 10 menit
-    # atau gunakan:
-    # - cron: "0 */3 * * *"  # setiap 3 jam
 
 permissions:
   contents: write

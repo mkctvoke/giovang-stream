@@ -11,155 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (3 LIVE)",
+      "name": "⚽ Bóng Đá (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-0a23283780",
-          "name": "Avispa Fukuoka vs Sanfrecce Hiroshima | 16:00 19/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-0a23283780",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-0a23283780",
-                  "name": "Avispa Fukuoka vs Sanfrecce Hiroshima",
-                  "streams": [
-                    {
-                      "id": "st-0a23283780",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-66aa9c56b3",
-                          "name": "Hấu",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789806000_hd/1789806000_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Nhật Bản",
-            "team_a": "Avispa Fukuoka",
-            "team_b": "Sanfrecce Hiroshima",
-            "logo_a": "https://images.keovip88.net/images/teams/avispa-fukuoka.png",
-            "logo_b": "https://images.keovip88.net/images/teams/hiroshima-sanfrecce.png",
-            "time": "16:00:00",
-            "date": "19/09",
-            "blv": "Hấu",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88aa624d46db87048ba76_4e0620fa_20260919.png?v=4e0620fa",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-2ea8254e15",
-          "name": "Urawa Red Diamonds vs Tokyo Verdy | 16:30 19/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-2ea8254e15",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-2ea8254e15",
-                  "name": "Urawa Red Diamonds vs Tokyo Verdy",
-                  "streams": [
-                    {
-                      "id": "st-2ea8254e15",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-813166488b",
-                          "name": "Ben",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789806036_hd/1789806036_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "VĐQG Nhật Bản",
-            "team_a": "Urawa Red Diamonds",
-            "team_b": "Tokyo Verdy",
-            "logo_a": "https://images.keovip88.net/images/teams/urawa-red-diamonds.png",
-            "logo_b": "https://images.keovip88.net/images/teams/tokyo-verdy.png",
-            "time": "16:30:00",
-            "date": "19/09",
-            "blv": "Ben",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88aa624d46db87048bbd6_17954bfb_20260919.png?v=17954bfb",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-f1d195df13",
           "name": "Thanh Hóa vs Becamex Bình Dương | 17:00 19/09",
@@ -233,6 +89,222 @@
           }
         },
         {
+          "id": "gv-c45fc342ad",
+          "name": "Tottenham Hotspur vs Aston Villa | 18:30 19/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-c45fc342ad",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-c45fc342ad",
+                  "name": "Tottenham Hotspur vs Aston Villa",
+                  "streams": [
+                    {
+                      "id": "st-c45fc342ad",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-398a9f0593",
+                          "name": "Ben vs Chồn",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789741328_hd/1789741328_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Ngoại hạng Anh",
+            "team_a": "Tottenham Hotspur",
+            "team_b": "Aston Villa",
+            "logo_a": "https://images.keovip88.net/images/teams/tottenham-hotspur.png",
+            "logo_b": "https://images.keovip88.net/images/teams/aston-villa.png",
+            "time": "18:30:00",
+            "date": "19/09",
+            "blv": "Ben vs Chồn",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88aa924d46db87048c5b6_11a13e57_20260919.png?v=11a13e57",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b430821287",
+          "name": "Meizhou Hakka vs Hebei Gongfu | 18:30 19/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b430821287",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b430821287",
+                  "name": "Meizhou Hakka vs Hebei Gongfu",
+                  "streams": [
+                    {
+                      "id": "st-b430821287",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-9dc4c6c53a",
+                          "name": "Trĩ",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789741124_hd/1789741124_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "Hạng Nhất Trung Quốc",
+            "team_a": "Meizhou Hakka",
+            "team_b": "Hebei Gongfu",
+            "logo_a": "https://images.keovip88.net/images/teams/meizhou-hakka.png",
+            "logo_b": "https://images.keovip88.net/images/teams/shijiazhuang-kungfu.png",
+            "time": "18:30:00",
+            "date": "19/09",
+            "blv": "Trĩ",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88aa924d46db87048c696_f1d2c062_20260919.png?v=f1d2c062",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
+          "id": "gv-b07e222b9d",
+          "name": "Osasuna vs Rayo Vallecano | 19:00 19/09",
+          "type": "single",
+          "display": "thumbnail-only",
+          "enable_detail": false,
+          "labels": [
+            {
+              "text": "● LIVE",
+              "position": "top-left",
+              "color": "#00000080",
+              "text_color": "#ff4444"
+            }
+          ],
+          "sources": [
+            {
+              "id": "src-b07e222b9d",
+              "name": "GiovangTV",
+              "contents": [
+                {
+                  "id": "ct-b07e222b9d",
+                  "name": "Osasuna vs Rayo Vallecano",
+                  "streams": [
+                    {
+                      "id": "st-b07e222b9d",
+                      "name": "GV",
+                      "stream_links": [
+                        {
+                          "id": "lnk-50daf1ebe2",
+                          "name": "Mason",
+                          "type": "hls",
+                          "default": true,
+                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789741350_hd/1789741350_hd@720p.m3u8",
+                          "request_headers": [
+                            {
+                              "key": "Referer",
+                              "value": "https://giovang.store/"
+                            },
+                            {
+                              "key": "User-Agent",
+                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "org_metadata": {
+            "league": "La Liga",
+            "team_a": "Osasuna",
+            "team_b": "Rayo Vallecano",
+            "logo_a": "https://images.keovip88.net/images/teams/osasuna.png",
+            "logo_b": "https://images.keovip88.net/images/teams/rayo-vallecano.png",
+            "time": "19:00:00",
+            "date": "19/09",
+            "blv": "Mason",
+            "is_live": true,
+            "cate_type": "football"
+          },
+          "image": {
+            "padding": 1,
+            "background_color": "#ffffff",
+            "display": "contain",
+            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88aaa24d46db87048c8a3_5089c7ad_20260919.png?v=5089c7ad",
+            "width": 1600,
+            "height": 1200
+          }
+        },
+        {
           "id": "gv-c38403d735",
           "name": "Khai Mạc Asiad 2026 vs Các Môn thể thao | 16:00 19/09",
           "type": "single",
@@ -300,222 +372,6 @@
             "background_color": "#ffffff",
             "display": "contain",
             "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/c2o507qgca6v_915ce5e2_20260919.png?v=915ce5e2",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-c45fc342ad",
-          "name": "Tottenham Hotspur vs Aston Villa | 18:30 19/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-c45fc342ad",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-c45fc342ad",
-                  "name": "Tottenham Hotspur vs Aston Villa",
-                  "streams": [
-                    {
-                      "id": "st-c45fc342ad",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-398a9f0593",
-                          "name": "Ben vs Chồn",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789741328_hd/1789741328_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Ngoại hạng Anh",
-            "team_a": "Tottenham Hotspur",
-            "team_b": "Aston Villa",
-            "logo_a": "https://images.keovip88.net/images/teams/tottenham-hotspur.png",
-            "logo_b": "https://images.keovip88.net/images/teams/aston-villa.png",
-            "time": "18:30:00",
-            "date": "19/09",
-            "blv": "Ben vs Chồn",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88aa924d46db87048c5b6_11a13e57_20260919.png?v=11a13e57",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-b430821287",
-          "name": "Meizhou Hakka vs Hebei Gongfu | 18:30 19/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b430821287",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b430821287",
-                  "name": "Meizhou Hakka vs Hebei Gongfu",
-                  "streams": [
-                    {
-                      "id": "st-b430821287",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-9dc4c6c53a",
-                          "name": "Trĩ",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789741124_hd/1789741124_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "Hạng Nhất Trung Quốc",
-            "team_a": "Meizhou Hakka",
-            "team_b": "Hebei Gongfu",
-            "logo_a": "https://images.keovip88.net/images/teams/meizhou-hakka.png",
-            "logo_b": "https://images.keovip88.net/images/teams/shijiazhuang-kungfu.png",
-            "time": "18:30:00",
-            "date": "19/09",
-            "blv": "Trĩ",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88aa924d46db87048c696_f1d2c062_20260919.png?v=f1d2c062",
-            "width": 1600,
-            "height": 1200
-          }
-        },
-        {
-          "id": "gv-b07e222b9d",
-          "name": "Osasuna vs Rayo Vallecano | 19:00 19/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "🕐 Sắp",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#aaaaaa"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-b07e222b9d",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-b07e222b9d",
-                  "name": "Osasuna vs Rayo Vallecano",
-                  "streams": [
-                    {
-                      "id": "st-b07e222b9d",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-50daf1ebe2",
-                          "name": "Mason",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789741350_hd/1789741350_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "La Liga",
-            "team_a": "Osasuna",
-            "team_b": "Rayo Vallecano",
-            "logo_a": "https://images.keovip88.net/images/teams/osasuna.png",
-            "logo_b": "https://images.keovip88.net/images/teams/rayo-vallecano.png",
-            "time": "19:00:00",
-            "date": "19/09",
-            "blv": "Mason",
-            "is_live": false,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/6aa88aaa24d46db87048c8a3_5089c7ad_20260919.png?v=5089c7ad",
             "width": 1600,
             "height": 1200
           }
@@ -854,7 +710,7 @@
                         },
                         {
                           "id": "lnk-174b164171",
-                          "name": "Hấu",
+                          "name": "Trung Lập: Hấu",
                           "type": "hls",
                           "default": false,
                           "url": "https://eqr2hdarxfliv.vcdn.cloud/1789741647_hd/1789741647_hd@720p.m3u8",
@@ -884,7 +740,7 @@
             "logo_b": "https://images.keovip88.net/images/teams/arsenal.png",
             "time": "21:00:00",
             "date": "19/09",
-            "blv": "Fan Arsenal: Ngọng + Mù, Hấu",
+            "blv": "Fan Arsenal: Ngọng + Mù, Trung Lập: Hấu",
             "is_live": false,
             "cate_type": "football"
           },

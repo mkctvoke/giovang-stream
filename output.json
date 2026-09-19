@@ -11,83 +11,11 @@
   "groups": [
     {
       "id": "cate_football",
-      "name": "⚽ Bóng Đá (1 LIVE)",
+      "name": "⚽ Bóng Đá",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
       "channels": [
-        {
-          "id": "gv-bc11138ec0",
-          "name": "DC Power W vs Tampa Bay Sun W | 06:00 19/09",
-          "type": "single",
-          "display": "thumbnail-only",
-          "enable_detail": false,
-          "labels": [
-            {
-              "text": "● LIVE",
-              "position": "top-left",
-              "color": "#00000080",
-              "text_color": "#ff4444"
-            }
-          ],
-          "sources": [
-            {
-              "id": "src-bc11138ec0",
-              "name": "GiovangTV",
-              "contents": [
-                {
-                  "id": "ct-bc11138ec0",
-                  "name": "DC Power W vs Tampa Bay Sun W",
-                  "streams": [
-                    {
-                      "id": "st-bc11138ec0",
-                      "name": "GV",
-                      "stream_links": [
-                        {
-                          "id": "lnk-251262506c",
-                          "name": "Mù",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://eqr2hdarxfliv.vcdn.cloud/1789720297_hd/1789720297_hd@720p.m3u8",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://giovang.store/"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
-                            }
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ],
-          "org_metadata": {
-            "league": "USL Super League Women",
-            "team_a": "DC Power W",
-            "team_b": "Tampa Bay Sun W",
-            "logo_a": "https://static.flashscore.com/res/image/data/MXMGC7h5-OW9X31zs.png",
-            "logo_b": "https://static.flashscore.com/res/image/data/tbZgp3yB-YZ45kxuU.png",
-            "time": "06:00:00",
-            "date": "19/09",
-            "blv": "Mù",
-            "is_live": true,
-            "cate_type": "football"
-          },
-          "image": {
-            "padding": 1,
-            "background_color": "#ffffff",
-            "display": "contain",
-            "url": "https://raw.githubusercontent.com/mkctvoke/giovang-stream/refs/heads/main/thumbs/u4ttunz7ahg7_e53fc287_20260919.png?v=e53fc287",
-            "width": 1600,
-            "height": 1200
-          }
-        },
         {
           "id": "gv-cb003443f8",
           "name": "Bucheon FC 1995 vs Gimcheon Sangmu | 14:30 19/09",
@@ -1621,7 +1549,7 @@
     },
     {
       "id": "cate_basketball",
-      "name": "🏀 Bóng Rổ (3 LIVE)",
+      "name": "🏀 Bóng Rổ (4 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -1850,10 +1778,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -1902,7 +1830,7 @@
             "time": "09:00:00",
             "date": "19/09",
             "blv": "Vịt",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "basketball"
           },
           "image": {
@@ -2953,7 +2881,7 @@
     },
     {
       "id": "cate_bongchay",
-      "name": "⚾ Bóng Chày (2 LIVE)",
+      "name": "⚾ Bóng Chày (3 LIVE)",
       "display": "vertical",
       "grid_number": 2,
       "enable_detail": false,
@@ -3110,10 +3038,10 @@
           "enable_detail": false,
           "labels": [
             {
-              "text": "🕐 Sắp",
+              "text": "● LIVE",
               "position": "top-left",
               "color": "#00000080",
-              "text_color": "#aaaaaa"
+              "text_color": "#ff4444"
             }
           ],
           "sources": [
@@ -3162,7 +3090,7 @@
             "time": "09:15:00",
             "date": "19/09",
             "blv": "Cận",
-            "is_live": false,
+            "is_live": true,
             "cate_type": "bongchay"
           },
           "image": {
